@@ -35,16 +35,3 @@ Notebook principal com:
 
 ---
 
-## 📌 Exemplos de Visualizações
-
-![Exemplo de Gráfico](https://raw.githubusercontent.com/pedrocassioG/Vizualiza-o-de-Dados/main/img/exemplo_grafico.png)
-
-> *Visualização fictícia — substitua pelo seu próprio gráfico, se desejar.*
-
----
-
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/pedrocassioG/Vizualiza-o-de-Dados.git
